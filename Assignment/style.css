@@ -1,0 +1,29 @@
+.head {
+    display: flex;
+    width: 520px;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-bottom: auto; 
+    align-items: center;
+    border: 2px solid;
+    
+  }
+  
+.logo img {
+    width: 190px;  
+  }
+
+  .title {  
+     margin: 20px; 
+    text-align: center;
+    font-weight: bold;  
+    text-decoration: underline;
+  }
+
+.inf{
+  border-left: 50px;
+  display:inline;
+  margin-left: 3000px;
+  align-items: center;
+  margin-top: 100px;
+}
