@@ -1,5 +1,5 @@
 {
-  "name": "l32-mongoose",
+  "name": "l33-e-commerceproject",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "mongodb": "^6.5.0",
-    "mongoose": "^8.3.2"
+    "hbs": "^4.2.0"
   }
 }
